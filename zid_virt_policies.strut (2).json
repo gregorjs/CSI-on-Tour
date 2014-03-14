@@ -1,0 +1,562 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 298,
+          "y": 308,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>CSI ON TOUR</font>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": true,
+      "active": true,
+      "x": 180,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 92,
+          "y": 259,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "IGIL Best Pratices<br><br><ul><li>Service Level Management<br></li><li>Availability Management<br></li></ul>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 76,
+          "y": 55,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>Was wir anbieten wollen:</font>",
+          "size": 58,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.42,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 321,
+      "y": 374
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/QGiQfi0.png",
+          "type": "Image",
+          "x": 19,
+          "y": 173,
+          "scale": {
+            "x": 0.7580015612802498,
+            "y": 0.7580015612802498,
+            "width": 970.9999999999999,
+            "height": 498.76502732240436
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 53,
+          "y": 34,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>Redhat Cloudfoundation Pathway</font>",
+          "size": 57,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 724,
+      "y": 250
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 74,
+          "y": 20,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "RHEVM<br>",
+          "size": 34,
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/Lg0TddN.png",
+          "type": "Image",
+          "x": 42,
+          "y": 202,
+          "scale": {
+            "x": 0.501823866597186,
+            "y": 0.501823866597186,
+            "width": 963,
+            "height": 497.8092756644085
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 193,
+          "y": 62,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li>vorprovisionierte RHEL 6 Images mit SLM</li><li>frei konfigurierbare Parameter wie bisher (CPU, RAM, etc.)</li><li>Failover und Updates<br></li><li>Web UI</li><li>autonome Verwaltung ausgew. Maschinen</li></ul>",
+          "size": 26,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 985,
+      "y": 269
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 74,
+          "y": 20,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Satellite<br>",
+          "size": 34,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 215,
+          "y": 60,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li>zentrales Update Management (Channels, ...)</li><li>Failover und Updates<br></li><li>Web UI</li><li>autonome Verwaltung der Updates</li></ul>",
+          "size": 31,
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/UPOkxbn.png",
+          "type": "Image",
+          "x": 22,
+          "y": 204,
+          "scale": {
+            "x": 0.5187891440501043,
+            "y": 0.5187891440501043,
+            "width": 993.9999999999999,
+            "height": 514.6388308977035
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 987,
+      "y": 429
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 74,
+          "y": 20,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "The Foreman<br>",
+          "size": 34,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 215,
+          "y": 60,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li>zentrales Configuration Management</li><li>Failover und Updates<br></li><li>Web UI</li><li>autonome Verwaltung von Hosts und Hostgruppen</li></ul>",
+          "size": 31,
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/GY9Mr4b.png",
+          "type": "Image",
+          "x": 15,
+          "y": 223,
+          "scale": {
+            "x": 0.5164147993746744,
+            "y": 0.5164147993746744,
+            "width": 991.0000000000001,
+            "height": 511.25065138092765
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 987,
+      "y": 595
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 74,
+          "y": 20,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Gitlab<br>",
+          "size": 34,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 215,
+          "y": 60,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li>zentrales Source Code Management</li><li>Failover und Updates<br></li><li>Development/Testing Environments&nbsp;</li><li>autonome Puppet Entwicklung</li></ul>",
+          "size": 31,
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/KJATFaI.png",
+          "type": "Image",
+          "x": 10,
+          "y": 219,
+          "scale": {
+            "x": 0.525794684731631,
+            "y": 0.525794684731631,
+            "width": 1009,
+            "height": 518.9593538301199
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 990,
+      "y": 765
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 46,
+          "y": 156,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li><span style=\"line-height: normal;\">RHEV 3.3 produktiv</span></li><li><span style=\"line-height: normal;\">SATELLITE für RHEL und CENTOS</span></li><li><span style=\"line-height: normal;\">PUPPET produktiv&nbsp;</span></li><li><span style=\"line-height: normal;\">GITLAB</span><span style=\"line-height: normal;\">&nbsp;produktiv</span></li></ul>",
+          "size": 66,
+          "selected": false,
+          "skewY": 0
+        },
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 44,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>✓</font>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 1391,
+      "y": 410
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 149,
+          "y": 156,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li><span style=\"line-height: normal;\">Monitoring</span></li><li><span style=\"line-height: normal;\">Backup</span></li><li><span style=\"line-height: normal;\">Logging<br></span><span style=\"line-height: normal;\">über Puppet</span></li></ul>",
+          "size": 66,
+          "selected": false,
+          "skewY": 0
+        },
+        {
+          "TextBox": {},
+          "x": 48,
+          "y": 43,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Was noch kommt<br>",
+          "size": 54,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 1666,
+      "y": 409
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 328,
+          "y": 90,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>Policies:</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 63,
+          "y": 375,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>https://wiki.uibk.ac.at/display/zidlcs/Policies+Virtualisierung</font>",
+          "size": 35,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 1976,
+      "y": 405
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 256,
+          "y": 97,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "OSPW Projekt:<br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 198,
+          "y": 375,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font><ul><li>mit Bearbeiter direkt vereinbaren &nbsp;oder<br>3 Termine pro Server bekanntgeben</li><li><span style=\"line-height: normal;\">bei CentOS 5 Neuinstalltion empfohlen</span></li></ul></font>",
+          "size": 35,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 173,
+          "y": 200,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>=Migration VMWare -&gt; RHEV</font>",
+          "size": 51,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 1978,
+      "y": 588
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 409,
+          "y": 329,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Q &amp; A<br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 2247,
+      "y": 595
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 298,
+        "y": 308,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font>CSI ON TOUR</font>",
+        "size": 72,
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 0,
+    "selected": true,
+    "active": true,
+    "x": 180,
+    "y": 180
+  },
+  "fileName": "zid_virt_policies.strut",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  }
+}
